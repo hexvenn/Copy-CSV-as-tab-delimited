@@ -10,9 +10,10 @@ Prerequisites:
 
 Instructions:
  - Get the binary and place it somewhere it won't bother you (it has to stay there)
- - Click the executable - you should see a dialog saying that the extension has been registered
+ - Run the executable (as admin) - you should see a dialog saying that the extension has been registered
  - Right click your CSV file and choose "Copy tab-delimited"
  - Paste into spreadsheet
+Note: you may need to restart your explorer.exe (or just reboot the computer)
 
  Issues:
  - Excel needs to be the default program for CSV files as CSV has no default ProgID otherwise (we don't actually need to use Excel)
